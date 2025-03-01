@@ -1,4 +1,4 @@
-title: Data 198
+title: JamBase
 description: JamBase project
 logo: assets/site_images/logo.png
 author: Brandon Concepcion
@@ -22,8 +22,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Textbook: 
-    - https://dssdecal.org/textbook
   Statement of Work: 
     - 'https://docs.google.com/document/d/1r6FBT_cIkiP6WXTb2tPcMQbD-1aNPO9L9csQfI9fOvs/edit?usp=sharing'
   Data Science Society at Berkeley:

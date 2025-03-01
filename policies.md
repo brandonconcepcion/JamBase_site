@@ -2,6 +2,7 @@
 layout: page
 nav_order: 3
 title: Policies
+nav_exclude: true
 description: >-
     Policies
 ---

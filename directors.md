@@ -3,6 +3,8 @@ layout: page
 title: Previous Directors
 description: Contributors to Academic Development over the years!
 nav_order: 6
+nav_exclude: true
+
 ---
 
 # Previous Directors of DATA 198: Introduction to Real World Data Science 
