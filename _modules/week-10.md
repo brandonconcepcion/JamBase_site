@@ -5,5 +5,5 @@ status: Active
 ---
 
 
-Nov 25
+ Apr 28
 : **Thanksgiving Break**{: .label} No class

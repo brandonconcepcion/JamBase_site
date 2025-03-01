@@ -1,10 +1,12 @@
 ---
-title: Week 11 Announcements
+title: Week 01 Announcements
 week: 11
-date: 2024-12-02 #Year-Month-Date
+date: 2025-02-24 #Year-Month-Date
 ---
-* A beta version of the DeCal textbook can be found <a href = "https://dssdecal.org/textbook/chapters/intro.html" target = "_blank">here!</a>
-* Final Survey is due Friday, December 06 at 11:59pm
-* Congratulations on completing the DeCal, hope you all had fun!
+* Welcome to the JamBase project! 
+* Watch and take notes on the assigned videos
+* Create a simple RAG model using data from JamBase's API 
+
 
 ## Quote of the week:
+“Sometimes when things seem to be falling apart, they are actually falling into place”

@@ -5,7 +5,7 @@ status: Active
 ---
 
 
-Oct 7
+Mar 10
 : **3**{: .label} Data Cleaning with Pandas 🧹
 : **Lecture**{: .label .label-lecture} <a href = "{{site.links.lectures.lecture03}}" target = "_blank">Slides</a>, <a href = "{{site.links.lightning.talk01}}" target = "_blank">Jonathan's Lightning Talk</a> 
 : **Demos**{: .label .label-demos} <a href = "{{site.links.demos.demo02}}" target = "_blank">Data Cleaning with Pandas</a> 

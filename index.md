@@ -7,9 +7,9 @@ permalink: index.html
 ---
 
 
-# Data 198: Introduction to Real World Data Science <img style = "width: 45px; margin-left: 15px; vertical-align: top;" src = "assets/site_images/dsslogopng.png">
+# Data Science Society 🤝 JamBase <img style = "width: 45px; margin-left: 15px; vertical-align: top;" src = "assets/site_images/dsslogopng.png"> <img style = "width: 45px; margin-left: 15px; vertical-align: top;" src = "assets/site_images/JB_logo.png">
 
-## UC Berkeley, Fall 2024
+## UC Berkeley, Spring 2025
 
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 

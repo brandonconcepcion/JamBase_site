@@ -5,5 +5,5 @@ status: Active
 ---
 
 
-Nov 11
+ Apr 14
 : **Veterans Day!**{: .label} No class

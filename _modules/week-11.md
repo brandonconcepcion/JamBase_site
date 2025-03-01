@@ -5,7 +5,7 @@ status: Active
 ---
 
 
-Dec 2
+ May 5
 : **9**{: .label} Symposium 2
 : **Lecture**{: .label .label-lecture} Mini Announcements
 
